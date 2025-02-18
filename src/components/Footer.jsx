@@ -10,7 +10,7 @@ export default function Footer() {
           <Text fontSize='sm' letterSpacinf='widest' textAlign={['center','left']}>We are best crypto trading app in India ,we provide at very affortable price</Text>
         </VStack>
         <VStack alignItems="center">
-          <Avatar boxSize={['20','28']} mt={['4', '0']} />
+          <Avatar boxSize={['20','28']} mt={['4', '0']} src='https://avatars.githubusercontent.com/u/139236756?v=4'/>
           <Text mt={2}>Our Founder</Text>
         </VStack>
       </Stack>
